@@ -7,7 +7,7 @@ HaPlay GO Zero 2 adalah poket komputer Linux yang bekerja penuh layaknya sebuah 
 HaPlay GO Zero 2 dirakit menggunakan mesin smartphone bekas, yaitu Xiaomi Redmi 2.
 
 ## Untuk Apa Ini?
-HaPlay GO Zero 2 merupakan salah satu produk yang diproduksi oleh proyek [HaPlay Computer](https://dhocnet.work/p/haplay.html), dimana proyek ini, bertujuan untuk menggunakan ulang elektronik konsumen yang sudah tidak terpakai sebagai produk baru dengan fungsi yang berbeda guna turut dalam proyek *Reuse & Recycle* untuk mengurangi menumpuknya sampak elektronik, khususnya yang berjenis smartphone.
+HaPlay GO Zero 2 merupakan salah satu produk yang diproduksi oleh proyek [HaPlay Computer](https://dhocnet.work/p/haplay.html), dimana proyek ini, bertujuan untuk menggunakan ulang elektronik konsumen yang sudah tidak terpakai sebagai produk baru dengan fungsi yang berbeda guna turut dalam program *Reuse & Recycle* untuk mengurangi menumpuknya sampah elektronik, khususnya yang berjenis smartphone.
 
 ## Apa Fungsi HaPlay GO Zero 2?
 Seperti yang telah disebutkan sebelumnya, HaPlay GO Zero 2 adalah poket komputer yang berfungsi layaknya komputer pada umumnya. Sehingga dapat digunakan untuk banyak hal terutama untuk kebutuhan edukasi.
