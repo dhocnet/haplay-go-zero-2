@@ -1,13 +1,13 @@
 # HaPlay GO Zero 2
 
-![HaPlay GO Zero 2](img/HaPlay_GO_Zero_2_depan.jpg)
+![HaPlay GO Zero 2](img/HaPlay_GO_Zero_2_depan.JPG)
 
 HaPlay GO Zero 2 adalah model ke-dua yang dibuat berdasarkan dari model pertama, yaitu [HaPlay GO Zero 1](https://github.com/dhocnet/haplay-go-zero-1), dengan perbedaan utamanya adalah pada keyboard yang digunakan.
 
 ## Apa Ini?
 HaPlay GO Zero 2 adalah poket komputer Linux yang bekerja penuh layaknya sebuah komputer pada umumnya, namun dengan ukuran yang sangat kompak. HaPlay GO Zero 2 dilengkapi dengan dua port USB 2.0 untuk ekspansi dan USB Type-C untuk charging baterai berjenis polimer dengan kapasitas 4855maH. Sebagai perangkat masukan, HaPlay GO Zero 2 menggunakan keyboard fisik QWERTY yang dilengkapi dengan touchpad dan touchscreen sebagai perangkat masukan opsional.
 
-![HaPlay GO Zero 2](HaPlay_GO_Zero_2-atas.jpg)
+![HaPlay GO Zero 2](img/HaPlay_GO_Zero_2-atas.JPG)
 
 HaPlay GO Zero 2 dirakit menggunakan mesin smartphone bekas, yaitu Xiaomi Redmi 2.
 
