@@ -18,7 +18,7 @@ HaPlay GO Zero 2 menggunakan sistem operasi [PostmarketOS Linux](https://postmar
 
 Untuk menulis, ada banyak editor teks yang tersedia. Seperti **Nano Editor**, **Micro Editor**, **Vim/ NVim**, **Emacs** dan **LYX**.
 
-Dan karena sistem operasi default HaPlay GO Zero 2 adalah Linux, maka perangkat ini dapat digunakan sebagai mini lab untuk mengasah kemampuan dalam membangun server berbasis Linux, menasah kemampuan administrasi sistem Linux, atau hanya untuk sebagai personal terminal.
+Dan karena sistem operasi default HaPlay GO Zero 2 adalah Linux, maka perangkat ini dapat digunakan sebagai mini lab untuk mengasah kemampuan dalam membangun server berbasis Linux, mengasah kemampuan administrasi sistem Linux, atau hanya untuk sebagai personal terminal.
 
 ## Bagaimana Cara Membuatnya?
 Lihat dokumentasi cara merakit HaPlay GO Zero 2: [Disini](diagram/README.md)
