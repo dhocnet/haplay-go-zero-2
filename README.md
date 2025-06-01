@@ -26,7 +26,9 @@ Untuk menulis, ada banyak editor teks yang tersedia. Seperti **Nano Editor**, **
 Dan karena sistem operasi default HaPlay GO Zero 2 adalah Linux, maka perangkat ini dapat digunakan sebagai mini lab untuk mengasah kemampuan dalam membangun server berbasis Linux, mengasah kemampuan administrasi sistem Linux, atau hanya untuk sebagai personal terminal.
 
 ## Bagaimana Cara Membuatnya?
-Lihat dokumentasi cara merakit HaPlay GO Zero 2: [Disini](diagram/README.md)
+Lihat dokumentasi cara merakit HaPlay GO Zero: [Disini](https//github.com/dhocnet/haplay-go-zero-1)
+
+> CATATAN! *Panduan ini merujuk pada proyek HaPlay GO Zero 1, dimana, diagram dan komponen yang digunakan sama, kecuali hanya keyboard saja yang berbeda*.
 
 ## Dimana Membelinya?
 HaPlay GO Zero 2 tersedia untuk dibeli secara langsung melalui [DHOCNET Store](https://dhocnet.work/search?label=Produk) atau melalui Rekening Bersama Tokopedia di [DHOCNET Store Tokopedia](https://tokopedia.com/dhocnet) dengan tambahan beban biaya transaksi sebesar 12%.
